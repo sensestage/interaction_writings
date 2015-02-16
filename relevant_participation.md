@@ -1,6 +1,7 @@
 Making interactive media environments relevant to the participating visitor
 ==
 
+*[citations, references and comments needed]*
 
 Roles and expectations
 -
