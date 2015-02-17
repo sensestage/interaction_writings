@@ -90,7 +90,7 @@ A next step may be to change their costume, this can be anything between a simpl
 
 *Object*
 
-Instead of an object, you can give the visitor an object that they can hold, that will have some importance in the environment.
+Instead of an costume, you can give the visitor an object that they can hold, that will have some importance in the environment.
 
 *Split up*
 
