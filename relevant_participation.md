@@ -1,6 +1,8 @@
 Making interactive media environments relevant to the participating visitor
 ==
 
+*Marije Baalman*
+
 *[citations, references and comments needed]*
 
 Roles and expectations
